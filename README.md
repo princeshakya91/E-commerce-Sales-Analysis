@@ -71,7 +71,7 @@ Use slicers to filter data dynamically
 🔹 Project Files
 Power BI Dashboard (.pbix)
 Dataset (.csv)
-Sales analysis(i
+Sales analysis(.ipynb)
 README documentation
 
 🔹 Author
